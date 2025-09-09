@@ -1,0 +1,11 @@
+pip install pyrogram==2.0.107
+
+pip install tgcrypto==1.2.3
+
+pip install python-telegram-bot==20.4
+
+pip install aiohttp==3.8.5
+
+pip install requests==2.31.0
+
+pip install uuid==1.30
